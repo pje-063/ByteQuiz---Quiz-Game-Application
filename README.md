@@ -24,6 +24,12 @@ This project is an interactive and responsive full-screen Quiz Studio applicatio
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-
+## Project Demo
+<p align="center">
+  <video width="100%" controls>
+    <source src="demo/Demo Recording.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 Author
 Vidya Vijay
